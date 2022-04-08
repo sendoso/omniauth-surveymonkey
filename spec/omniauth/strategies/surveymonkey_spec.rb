@@ -1,4 +1,4 @@
-require 'omniauth-surveymonkey'
+require 'surveymonkey-omniauth'
 
 describe OmniAuth::Strategies::Surveymonkey do
   context 'with url context' do

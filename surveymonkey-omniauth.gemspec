@@ -16,7 +16,7 @@ Gem::Specification.new do |gem|
 
   gem.files = `git ls-files`.split("\n")
   gem.test_files = `git ls-files spec/*`.split("\n")
-  gem.name = "omniauth-surveymonkey"
+  gem.name = "surveymonkey-omniauth"
   gem.require_paths = ["lib"]
   gem.version = OmniAuth::Surveymonkey::VERSION
   gem.homepage = "https://github.com/sendoso/omniauth-surveymonkey"

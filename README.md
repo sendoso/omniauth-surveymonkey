@@ -3,7 +3,7 @@
 SurveyMonkey OAuth2 strategy for OmniAuth
 ## Get Started
 ```ruby
-gem 'omniauth-surveymonkey'
+gem 'surveymonkey-omniauth'
 ```
 ## Usage
 
