@@ -9,7 +9,7 @@ gem 'omniauth-surveymonkey'
 
 In your config/initializers/omniauth.rb:
 
-    OmniAuth.config.logger = Rails.logger
+
     Rails.application.config.middleware.use OmniAuth::Builder do
       provider :surveymonkey, SURVEYMONKEY_CLIENT_ID, SURVEYMONKEY_API_SECRET
     end
