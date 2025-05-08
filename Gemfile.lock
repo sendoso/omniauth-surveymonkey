@@ -22,7 +22,7 @@ GEM
     omniauth-oauth2 (1.7.2)
       oauth2 (~> 1.4)
       omniauth (>= 1.9, < 3)
-    rack (3.0.9.1)
+    rack (3.0.16)
     rack-protection (2.2.0)
       rack
     ruby2_keywords (0.0.5)
